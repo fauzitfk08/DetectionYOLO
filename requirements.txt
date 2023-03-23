@@ -10,7 +10,6 @@ Pillow
 scikit-learn
 Image
 av
-yaml
 YOLO_Pred_Internet
 YOLO_Pred_Realtime
 pip==23.0.1
