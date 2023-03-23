@@ -16,4 +16,4 @@ SafeLoader
 yaml
 YOLO_Pred_Internet
 YOLO_Pred_Realtime
-pip install --upgrade pip 
+pip==23.0.1
