@@ -10,7 +10,6 @@ Pillow
 scikit-learn
 Image
 av
-SafeLoader
 yaml
 YOLO_Pred_Internet
 YOLO_Pred_Realtime
