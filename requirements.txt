@@ -10,7 +10,6 @@ Pillow
 scikit-learn
 Image
 av
-opencv
 os
 SafeLoader
 yaml
