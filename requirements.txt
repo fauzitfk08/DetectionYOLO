@@ -8,3 +8,12 @@ seaborn
 plotly
 Pillow
 scikit-learn
+webrtc_streamer
+Image
+av
+cv2
+os
+SafeLoader
+yaml
+YOLO_Pred_Internet
+YOLO_Pred_Realtime
