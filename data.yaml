@@ -1,4 +1,0 @@
-train: dataImages/train
-val: dataImages/test
-nc: 3
-names: ["Helmet", "NoHelmet", "Motorcycle"]
