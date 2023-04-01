@@ -10,4 +10,3 @@ Pillow
 scikit-learn
 Image
 av
-pip==23.0.1
