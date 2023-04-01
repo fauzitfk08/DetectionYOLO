@@ -10,3 +10,4 @@ Pillow
 scikit-learn
 Image
 av
+pip
