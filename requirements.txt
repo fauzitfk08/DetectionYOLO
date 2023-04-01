@@ -3,7 +3,7 @@ pandas
 matplotlib
 opencv-python
 jupyter
-streamlit
+streamlit==1.3.1
 seaborn
 plotly
 Pillow
