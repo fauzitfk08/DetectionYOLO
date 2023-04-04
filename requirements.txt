@@ -9,5 +9,5 @@ scikit-learn
 Image
 av
 pip==23.0.1
-streamlit==0.52.1
-opencv-python==4.3.0.38
+streamlit
+opencv-python
