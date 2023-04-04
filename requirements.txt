@@ -11,3 +11,5 @@ av
 pip==23.0.1
 streamlit
 opencv-python
+opencv-contrib-python
+streamlit-webrtc
